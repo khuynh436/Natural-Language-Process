@@ -12,15 +12,15 @@ In this project the objective is the classification of text in tweets to determi
 
 Computers can now generate text, translate automatically from one language to another, analyze comments, label words in sentences, and much more.
 Perhaps the most widely and practically useful application of NLP is classification which can be used for:
-        1. Sentiment analysis 
-        2. Are product review positive or negative?
-        3. Author identification 
-        4. Which author most likely wrote some document?
-        4. Legal discovery
-        5. Which documents are in scope for a trial?
-        6. Organizing documents by topic
-        7. Triaging inbound emails
-        8. ...and much more!
+    Sentiment analysis 
+    Are product review positive or negative?
+    Author identification 
+    Which author most likely wrote some document?
+    Legal discovery
+    Which documents are in scope for a trial?
+    Organizing documents by topic
+    Triaging inbound emails
+    ...and much more!
 
 # Data Processing
 
